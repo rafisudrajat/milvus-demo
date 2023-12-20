@@ -1,3 +1,4 @@
 datasets
 volumes
 *.dmg
+.DS_Store
